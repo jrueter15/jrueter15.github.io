@@ -4,9 +4,10 @@ title: "Home"
 permalink: /home/
 ---
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 2%; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 2rem; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/738e83f7-69db-4eeb-a746-dbd60decaacc" alt="programming" style="width: 300px; height: 200px;" />
   <img src="https://github.com/user-attachments/assets/7f1e8153-f26c-4fbc-9722-893d38d52da0" alt="appraisal" style="width: 300px; height: 200px;" />
+  <img src="https://github.com/user-attachments/assets/5aadb847-e3cd-4cb8-94ff-e8c9ce40a9e8" alt="altruism" style="width: 300px; height: 200px;" />
 </div>
 
 <div style="text-align: center; margin-bottom: 3rem;">
