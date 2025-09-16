@@ -1,8 +1,8 @@
 layout: page
 title: "Home"
-permalink: /https://jrueter15.github.io/Home
+permalink: /Home/
 
-<img width="750" height="425" alt="image" src="https://github.com/user-attachments/assets/738e83f7-69db-4eeb-a746-dbd60decaacc" />
+<img width="563" height="319" alt="image" src="https://github.com/user-attachments/assets/738e83f7-69db-4eeb-a746-dbd60decaacc" />
 
 Hi, I’m Jared Rueter, a Business Administration graduate and certified real estate appraiser now building a career in technology. I’m passionate about using data, problem-solving, and technology to create solutions that serve a higher purpose and contribute to the greater good.
 
