@@ -3,6 +3,7 @@ title: "Home"
 permalink: /Home/
 
 <img width="563" height="319" alt="image" src="https://github.com/user-attachments/assets/738e83f7-69db-4eeb-a746-dbd60decaacc" />
+<img width="512" height="342" alt="image" src="https://github.com/user-attachments/assets/7f1e8153-f26c-4fbc-9722-893d38d52da0" />
 
 Hi, I’m Jared Rueter, a Business Administration graduate and certified real estate appraiser now building a career in technology. I’m passionate about using data, problem-solving, and technology to create solutions that serve a higher purpose and contribute to the greater good.
 
