@@ -16,5 +16,5 @@ Through my growing technical skills in JavaScript, React, Spring Boot, SQL, GitH
 I’m seeking opportunities where I can apply my skills toward mission-driven work — whether in technology, data analysis, or operations — to help advance causes like sustainability, effective policy, or animal advocacy. For me, building a career isn’t only about technical achievement but also about making a positive and lasting difference.
 
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="https://github.com/user-attachments/assets/5aadb847-e3cd-4cb8-94ff-e8c9ce40a9e8" alt="altruism" style="width= 300px; height= 300px;" />
+  <img src="https://github.com/user-attachments/assets/5aadb847-e3cd-4cb8-94ff-e8c9ce40a9e8" alt="altruism" style="width: 300px; height: 300px;" />
 </div>
