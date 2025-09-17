@@ -3,7 +3,7 @@ layout: page
 title: "Project-Work"
 permalink: /project-work/
 ---
-<div style="padding-left: 2rem; padding-right: 2rem; max-width: 1000px; margin: 0 auto;display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<div style="padding-left: 2rem; padding-right: 2rem; max-width: 1000px; margin: 0 auto;justify-content: space-evenly; align-items: center;">
   
 <h1>Project Work</h1> 
 
