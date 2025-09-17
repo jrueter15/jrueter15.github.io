@@ -10,8 +10,10 @@ permalink: /home/
   <img src="https://github.com/user-attachments/assets/7f1e8153-f26c-4fbc-9722-893d38d52da0" alt="appraisal" style="width: 300px; height: 200px;" />
   <img src="https://github.com/user-attachments/assets/5aadb847-e3cd-4cb8-94ff-e8c9ce40a9e8" alt="altruism" style="width: 300px; height: 200px;" />
 </div>
+</div>
 
 # Welcome to My Portfolio
+<div style="padding-left: 2rem; padding-right: 2rem; max-width: 1000px; margin: 0 auto;">
 Hi, I’m Jared Rueter, a Business Administration graduate and certified real estate appraiser now focusing on building a career in technology. I’m passionate about using data, problem-solving, and technology to create solutions that serve a higher purpose and contribute to the greater good.
 
 Through my growing technical skills in JavaScript, React, Spring Boot, SQL, GitHub, and APIs, I aim to work on projects that make systems smarter, processes more efficient, and outcomes more impactful. My professional background in valuations, compliance, and analysis has given me a strong foundation in accuracy, responsibility, and ethical decision-making.
