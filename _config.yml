@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: jrueter's homepage
 description: Bookmark this to keep an eye on my project updates!
-
-<link rel="stylesheet" href="https://raw.githubusercontent.com/jrueter15/jrueter15.github.io/refs/heads/main/assets/style.css">
+include:
+  - assets
