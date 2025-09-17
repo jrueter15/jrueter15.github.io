@@ -1,13 +1,15 @@
 ---
 layout: page
 title: "Resume"
-permalink: /Resume
+permalink: /resume
 ---
 # Resume
-https://docs.google.com/document/d/1mHPGfOY-W7ZYlvN_T-OeBtsP2QJRmVXOfLn2VwcztRE/edit?tab=t.0
 
 Jared Rueter
-linkedin.com/in/jared-rueter/       https://github.com/jrueter15   
+**LinkedIn:** [linkedin.com/in/jared-rueter](https://linkedin.com/in/jared-rueter/)  
+**GitHub:** [github.com/jrueter15](https://github.com/jrueter15)  
+**Google Docs Resume:** [View Resume](https://docs.google.com/document/d/1mHPGfOY-W7ZYlvN_T-OeBtsP2QJRmVXOfLn2VwcztRE/edit?tab=t.0)  
+
 
 SUMMARY
 Detail-oriented real estate valuation professional with strong analytical, research, and communication skills transferable to tech and data-focused roles. Recently trained in front-end development, JavaScript, React, APIs, and version control, with hands-on experience building responsive web applications. Seeking a role where I can solve real-world problems using code and continue growing my technical skill set.
