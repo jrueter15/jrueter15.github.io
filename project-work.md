@@ -8,6 +8,9 @@ permalink: /project-work
 
 ## Daily Journaling App
 
+### Screenshot:
+<img width="604" height="449" alt="Screenshot 2025-09-16 112406" src="https://github.com/user-attachments/assets/e6c402bc-c01f-461b-a8b7-0fcce9239bca" />
+
 A **React-based web application** designed to encourage daily reflection and personal growth. Users can log daily journals or wins, helping them track progress and cultivate positive habits over time.
 
 ### Key Features:
@@ -16,9 +19,6 @@ A **React-based web application** designed to encourage daily reflection and per
 - Dedicated About page to introduce app purpose and usage
 - **Future calendar expansion** planned to make entries accessible and visible by date
 - Designed with the goal of supporting **mental wellness** and **self-improvement** through daily reflection
-
-### Screenshot:
-<img width="604" height="449" alt="Screenshot 2025-09-16 112406" src="https://github.com/user-attachments/assets/e6c402bc-c01f-461b-a8b7-0fcce9239bca" />
 
 ### Project Links
 - **GitHub Repository:** [Daily Journaling App](https://github.com/jrueter15/launchcode-unit-1-project/tree/main/unit-1-project)  
