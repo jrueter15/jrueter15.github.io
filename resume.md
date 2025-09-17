@@ -51,7 +51,7 @@ Java, JavaScript | React, Spring Boot
 - Improved student performance by 25% through targeted instruction and problem-solving strategies.
 
 ## EDUCATION
-**LaunchCode** - React/JavaScript, 2025 
-**Southern Illinois University Edwardsville** - Bachelor, Business Administration
+- **LaunchCode** - React/JavaScript, 2025 
+- **Southern Illinois University Edwardsville** - Bachelor, Business Administration
 
 ---
