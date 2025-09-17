@@ -3,7 +3,6 @@ layout: page
 title: "Home"
 permalink: /home/
 ---
-<link rel="stylesheet" href="/assets/style.css">
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/738e83f7-69db-4eeb-a746-dbd60decaacc" alt="programming" style="width: 300px; height: 200px;" />
