@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /home/
 ---
-<div style="padding-left: 2rem; padding-right: 2rem; max-width: 1000px; margin: 0 auto;">
+<div style="max-width: 800px; margin: 0 auto; background-color: #f5f5dc; border-radius: 10px; padding: 2rem;">
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/738e83f7-69db-4eeb-a746-dbd60decaacc" alt="programming" style="width: 300px; height: 200px;" />
