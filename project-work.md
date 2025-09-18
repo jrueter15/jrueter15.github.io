@@ -30,7 +30,9 @@ A React-based web application designed to encourage daily reflection and persona
 </ul>
 
 <h3>Project Links</h3>
-<p>GitHub Repository: Daily Journaling App (https://github.com/jrueter15/launchcode-unit-1-project/tree/main/unit-1-project) </p>
+<h3>GitHub Repository: Daily Journaling App</h3>
+  <a href="https://github.com/jrueter15/launchcode-unit-1-project/tree/main/unit-1-project" 
+     style="font-size: 2rem; color: #4a90e2; text-decoration: none;">Repository</a>
 
 </div>
 </div>
