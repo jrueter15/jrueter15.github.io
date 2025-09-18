@@ -11,7 +11,9 @@ permalink: /project-work/
 <h2>Daily Journaling App</h2> 
 
 <h3>Screenshot:</h3>
-<img width=50% height=auto alt="Screenshot 2025-09-16 112406" src="https://github.com/user-attachments/assets/e6c402bc-c01f-461b-a8b7-0fcce9239bca" />
+<img alt="Screenshot 2025-09-16 112406" 
+     src="https://github.com/user-attachments/assets/e6c402bc-c01f-461b-a8b7-0fcce9239bca" 
+     style="width: 50%; height: auto; display: block; margin: 0 auto; border-radius: 10px;" />
 
 <p>
 A React-based web application designed to encourage daily reflection and personal growth. Users can log daily journals or wins, helping them track progress and cultivate positive habits over time.
@@ -19,12 +21,12 @@ A React-based web application designed to encourage daily reflection and persona
 
 <h3>Key Features:</h3>
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li style="position: relative; padding-left: 1.2em;">- Built with React and JavaScript, using state management for seamless log updates</li>
-  <li style="position: relative; padding-left: 1.2em;">- Login/Signup authentication to provide personalized journal entries</li>
-  <li style="position: relative; padding-left: 1.2em;">- Dedicated About page to introduce app purpose and usage</li>
-  <li style="position: relative; padding-left: 1.2em;">- Future calendar expansion planned to make entries accessible and visible by date</li>
-  <li style="position: relative; padding-left: 1.2em;">- Designed with the goal of supporting mental wellness and self-improvement through daily reflection</li>
+<ul style="list-style: none; padding-left: 0; text-align: left; max-width: 700px; margin: 0 auto;">
+  <li>- Built with React and JavaScript, using state management for seamless log updates</li>
+  <li>- Login/Signup authentication to provide personalized journal entries</li>
+  <li>- Dedicated About page to introduce app purpose and usage</li>
+  <li>- Future calendar expansion planned to make entries accessible and visible by date</li>
+  <li>- Designed with the goal of supporting mental wellness and self-improvement through daily reflection</li>
 </ul>
 
 <h3>Project Links</h3>
