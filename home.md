@@ -13,10 +13,16 @@ permalink: /home/
 
 <h1>Welcome to My Portfolio</h1>
 
+<p>
 Hi, I’m Jared Rueter, a Business Administration graduate and certified real estate appraiser now focusing on building a career in technology. I’m passionate about using data, problem-solving, and technology to create solutions that serve a higher purpose and contribute to the greater good.
+</p>
 
+<p>
 Through my growing technical skills in JavaScript, React, Spring Boot, SQL, GitHub, and APIs, I aim to work on projects that make systems smarter, processes more efficient, and outcomes more impactful. My professional background in valuations, compliance, and analysis has given me a strong foundation in accuracy, responsibility, and ethical decision-making.
+</p>
 
+<p>
 I’m seeking opportunities where I can apply my skills toward mission-driven work — whether in technology, data analysis, or operations — to help advance causes like sustainability and effective policy. For me, building a career isn’t only about achievement but also about making a positive and lasting difference.
+</p>
 
 </div>
