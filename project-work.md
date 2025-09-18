@@ -19,18 +19,15 @@ A React-based web application designed to encourage daily reflection and persona
 <h3>Key Features:</h3>
 
 <ul>
-- Built with React and JavaScript, using state management for seamless log updates
- - Login/Signup authentication to provide personalized journal entries
-- Dedicated About page to introduce app purpose and usage
-- Future calendar expansion planned to make entries accessible and visible by date
-- Designed with the goal of supporting mental wellness and self-improvement through daily reflection
+ <li>Built with React and JavaScript, using state management for seamless log updates</li>
+ <li>Login/Signup authentication to provide personalized journal entries</li>
+ <li>Dedicated About page to introduce app purpose and usage</li>
+ <li>Future calendar expansion planned to make entries accessible and visible by date</li> 
+ <li>Designed with the goal of supporting mental wellness and self-improvement through daily reflection</li>
 </ul>
 
-
-
 <h3>Project Links</h3>
-<p>- GitHub Repository: [Daily Journaling App](https://github.com/jrueter15/launchcode-unit-1-project/tree/main/unit-1-project)  </p>
-
+<p>GitHub Repository: Daily Journaling App (https://github.com/jrueter15/launchcode-unit-1-project/tree/main/unit-1-project) </p>
 
 ---
 </div>
