@@ -25,7 +25,7 @@ Java, JavaScript | React, Spring Boot
 - Designed and implemented a single-page self-improvement web app allowing users to log daily accomplishments and habits without authentication overhead
 - Developed a log submission workflow with controlled components, input validation, and dynamic feedback using random encouragement messages
 - Built persistent data storage using localStorage and React’s useEffect to automatically save user input across sessions
-- Created reusable UI components such as <Button> and <Form> to simplify styling and reduce repeated code across authentication flows
+- Created reusable UI components such as Button and Form to simplify styling and reduce repeated code across authentication flows
 - Engineered routing logic with React Router DOM to manage authentication state and restrict access to key routes like Home, Calendar, and About
 - Integrated react-calendar to provide a basic interactive date selection and implement future display of selected logs
 - Applied responsive styling with CSS Flexbox, Grid, and media queries to ensure accessibility across mobile, tablet, and desktop devices
