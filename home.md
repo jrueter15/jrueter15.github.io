@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /home/
 ---
-<div style="background-color: #f5f5dc; min-height: 100vh;">
+<div style="background-color: #e8d8c3; min-height: 100vh;">
 <div style="max-width: 900px; margin: 0 auto; border-radius: 10px;">
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
